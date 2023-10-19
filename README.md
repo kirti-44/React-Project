@@ -1,18 +1,15 @@
 # [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/)
 
-Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** provided by `AppSeed` on top of **Black Dashboard**, an open-source `Bootstrap` Design from `Creative-Tim`.
+
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - `Product page`
 - 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - `LIVE Demo`
-- 🛒 **[Django Black PRO](https://appseed.us/product/black-dashboard-pro/django/)** - `Premium Version` (more pages, components, and priority on support)
-
-<br /> 
+- <br /> 
 
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Black](https://github.com/app-generator/django-admin-black) - `Free Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
@@ -23,7 +20,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Django Admin Black - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/196730732-dda1794b-93ce-48cb-bc5c-182411495512.png)
+
 
 <br />
 
@@ -209,5 +206,4 @@ At this point, the product should be LIVE.
 
 <br />
 
----
-[Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+--
