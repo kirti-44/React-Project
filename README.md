@@ -3,9 +3,11 @@
 
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
-- 👉 [Django Black Dashboard](https://appseed.us/product/black-dashboard/django/) - `Product page`
-- 👉 [Django Black Dashboard](https://django-black-dashboard.appseed-srv1.com/) - `LIVE Demo`
-- <br /> 
+![Screenshot (50)](https://github.com/kirti-44/React_Django_Project/assets/148382645/a90296a0-af8c-4828-b616-2c7fe0913d4e)
+![Screenshot (51)](https://github.com/kirti-44/React_Django_Project/assets/148382645/271bb773-b306-4acc-ab9b-1d098b5f47ea)
+
+
+<br /> 
 
 ## Features: 
 
